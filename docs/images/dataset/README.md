@@ -13,32 +13,31 @@
 ##### This report presents an exploratory analysis of website traffic data, focusing on user engagement and behavior. The dataset includes key metrics such as page views, session duration, bounce rate, traffic sources, time on page, previous visits, and conversion rate. The objective is to uncover traffic trends, user interaction patterns, and optimization opportunities.
 
 ## Observations
-Data Familiarization
-The data was loaded in excel.
- The dataset contains 7 rows and 2000 rows.
-Variables and data types:
-1.	Page Views: The number of pages viewed during a session (numerical).
-2.	Session Duration: The total duration of the session in minutes (numerical).
-3.	Bounce Rate: The percentage of visitors who navigate away from the site after viewing only one page (numerical).
-4.	Traffic Source: The origin of the traffic (e.g., Organic, Social, Paid) (categorical).
-5.	Time on Page: The amount of time spent on the specific page (numerical).
-6.	Previous Visits: The number of previous visits by the same visitor (numerical).
-7.	Conversion Rate: The percentage of visitors who completed a desired action (e.g., making a purchase) (numerical).
+### Data Familiarization
+##### The data was loaded in excel.
+##### The dataset contains 7 rows and 2000 rows.
+##### Variables and data types:
+##### 1.	Page Views: The number of pages viewed during a session (numerical).
+##### 2.	Session Duration: The total duration of the session in minutes (numerical).
+##### 3.	Bounce Rate: The percentage of visitors who navigate away from the site after viewing only one page (numerical).
+##### 4.	Traffic Source: The origin of the traffic (e.g., Organic, Social, Paid) (categorical).
+##### 5.	Time on Page: The amount of time spent on the specific page (numerical).
+##### 6.	Previous Visits: The number of previous visits by the same visitor (numerical).
+##### 7.	Conversion Rate: The percentage of visitors who completed a desired action (e.g., making a purchase) (numerical).
 
-Data Cleaning
-Checking for Missing or Unusual Data
- The data did not contain duplicate values.
- The data did not contain missing values.
-Using the filter function to go through the data, I did not find any negative or unusual data. From what I found from the data so far, the data is very clean.
-Looking for Basic Patterns
-I sorted the Page Views column in descending order and found out that the highest page views (i.e. page views between 14 and 9) have a conversion rate of 1, a conversion rate of 1 means that 100% of users in that session completed the desired action, such as making a purchase, signing up, or filling out a form.
+## Data Cleaning
+### Checking for Missing or Unusual Data
+##### 1. The data did not contain duplicate values.The data did not contain missing values.
+##### Using the filter function to go through the data, I did not find any negative or unusual data. From what I found from the data so far, the data is very clean.
+##### Looking for Basic Patterns
+##### I sorted the Page Views column in descending order and found out that the highest page views (i.e. page views between 14 and 9) have a conversion rate of 1, a conversion rate of 1 means that 100% of users in that session completed the desired action, such as making a purchase, signing up, or filling out a form.
  
 I sorted the Session Duration column in descending order and found out that the highest session durations (i.e. session durations between 20.29 and 5.436) have a conversion rate of 1.
  
 I sorted the Time on Page column in descending order and found out that the highest times on pages (i.e. between 24.796 and 6.184) have a conversion rate of 1.
  
-Insights
-1. Traffic Distribution by Source
+## Insights
+##### 1. Traffic Distribution by Source
 •	The Organic channel had the highest number of sessions (786 out of 2000), making up the largest share of traffic.
 •	Paid traffic followed with 428 sessions, while Referral traffic contributed 301 sessions.
 •	Direct and Social traffic accounted for 216 and 269 sessions, respectively.
@@ -53,9 +52,9 @@ Insights
 •	Social (98.27%) and Organic (98.23%) traffic also performed well in terms of conversion.
 •	Direct (97.87%) and Paid (97.90%) traffic had slightly lower conversion rates but were still highly effective.
 
-Recommendations
-Summary of Observations
-1.	Data Quality
+## Recommendations
+### Summary of Observations
+##### 1.	Data Quality
 o	The dataset is clean, with no duplicates, missing values, or negative/unusual data. This ensures reliability for further analysis.
 2.	Conversion Rate Trends
 o	Higher engagement leads to higher conversions:
@@ -73,4 +72,4 @@ Next Steps & Areas for Further Analysis
 4.	Deeper Traffic Analysis: Explore demographics, devices, and session timing to refine marketing strategies.
 For more insights on digital marketing strategies, visit the HNG Internship Program.
 
-Dashboard
+## Dashboard
