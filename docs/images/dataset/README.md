@@ -1,8 +1,10 @@
-Marketing Insight Report – Website Traffic Data
-Introduction
-Welcome to my first medium blog post! I’m John, a data analyst currently upskilling and advancing my career. I recently joined the HNG Internship Program, where interns complete industry-specific tasks to prove their expertise. This blog documents my analysis journey in this internship, and I’ll be sharing valuable insights along the way!
-This report presents an exploratory analysis of website traffic data, focusing on user engagement and behavior. The dataset includes key metrics such as page views, session duration, bounce rate, traffic sources, time on page, previous visits, and conversion rate. The objective is to uncover traffic trends, user interaction patterns, and optimization opportunities.
-Observations
+# Marketing Insight Report – Website Traffic Data
+
+## Introduction
+##### Welcome to my first medium blog post! I’m John, a data analyst currently upskilling and advancing my career. I recently joined the HNG Internship Program, where interns complete industry-specific tasks to prove their expertise. This blog documents my analysis journey in this internship, and I’ll be sharing valuable insights along the way! 
+##### This report presents an exploratory analysis of website traffic data, focusing on user engagement and behavior. The dataset includes key metrics such as page views, session duration, bounce rate, traffic sources, time on page, previous visits, and conversion rate. The objective is to uncover traffic trends, user interaction patterns, and optimization opportunities.
+
+## Observations
 Data Familiarization
 The data was loaded in excel.
  The dataset contains 7 rows and 2000 rows.
