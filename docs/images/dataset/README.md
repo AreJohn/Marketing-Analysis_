@@ -1,12 +1,12 @@
 # Marketing Insight Report – Website Traffic Data
 
 ## Table Of Contents
-- (Introduction)![Introduction]
-- ![Observation]
-- ![Data-Cleaning]
-- ![Insights]
-- [Recommendations]
-- ![Dashboard]
+- [Introduction](#Introduction)
+- [Observation](#Observation)
+- [Data Cleaning](#Data-Cleaning)
+- [Insights](#Insights)
+- [Recommendations](#Recommendations)
+- [Dashboard](#Dashboard)
 
 ## Introduction
 ##### Welcome to my first medium blog post! I’m John, a data analyst currently upskilling and advancing my career. I recently joined the HNG Internship Program, where interns complete industry-specific tasks to prove their expertise. This blog documents my analysis journey in this internship, and I’ll be sharing valuable insights along the way! 
