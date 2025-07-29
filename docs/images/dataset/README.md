@@ -14,7 +14,7 @@
 
 ## Observations
 ### Data Familiarization
-##### The data was loaded in excel.
+##### The data was downloaded ![Kaggle](https://www.kaggle.com/datasets/weihutchinson/foodfusion-marketing-campaign-data) loaded in excel.
 ##### The dataset contains 7 rows and 2000 rows.
 ##### Variables and data types:
 ##### 1.	Page Views: The number of pages viewed during a session (numerical).
