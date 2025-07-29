@@ -1,7 +1,7 @@
 # Marketing Insight Report – Website Traffic Data
 
 ## Table Of Contents
-- !(Introduction)[Introduction]
+- (Introduction)![Introduction]
 - ![Observation]
 - ![Data-Cleaning]
 - ![Insights]
