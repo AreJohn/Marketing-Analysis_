@@ -1,5 +1,13 @@
 # Marketing Insight Report – Website Traffic Data
 
+## Table Of Contents
+- !(Introduction)[Introduction]
+- ![Observation]
+- ![Data-Cleaning]
+- ![Insights]
+- [Recommendations]
+- ![Dashboard]
+
 ## Introduction
 ##### Welcome to my first medium blog post! I’m John, a data analyst currently upskilling and advancing my career. I recently joined the HNG Internship Program, where interns complete industry-specific tasks to prove their expertise. This blog documents my analysis journey in this internship, and I’ll be sharing valuable insights along the way! 
 ##### This report presents an exploratory analysis of website traffic data, focusing on user engagement and behavior. The dataset includes key metrics such as page views, session duration, bounce rate, traffic sources, time on page, previous visits, and conversion rate. The objective is to uncover traffic trends, user interaction patterns, and optimization opportunities.
@@ -17,6 +25,7 @@ Variables and data types:
 6.	Previous Visits: The number of previous visits by the same visitor (numerical).
 7.	Conversion Rate: The percentage of visitors who completed a desired action (e.g., making a purchase) (numerical).
 
+Data Cleaning
 Checking for Missing or Unusual Data
  The data did not contain duplicate values.
  The data did not contain missing values.
@@ -44,7 +53,7 @@ Insights
 •	Social (98.27%) and Organic (98.23%) traffic also performed well in terms of conversion.
 •	Direct (97.87%) and Paid (97.90%) traffic had slightly lower conversion rates but were still highly effective.
 
-Conclusion
+Recommendations
 Summary of Observations
 1.	Data Quality
 o	The dataset is clean, with no duplicates, missing values, or negative/unusual data. This ensures reliability for further analysis.
@@ -63,3 +72,5 @@ Next Steps & Areas for Further Analysis
 3.	Segment Conversion Actions: Since the overall average conversion rate is very high (98.21%), differentiate between types of conversions (e.g., purchases vs. sign-ups).
 4.	Deeper Traffic Analysis: Explore demographics, devices, and session timing to refine marketing strategies.
 For more insights on digital marketing strategies, visit the HNG Internship Program.
+
+Dashboard
